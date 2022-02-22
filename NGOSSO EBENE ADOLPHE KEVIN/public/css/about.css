@@ -1,0 +1,8 @@
+.browsers ul li img {
+    height:50px ;
+    width: 50px;
+}
+.browsers ul li {
+    list-style-type: none;
+    display: inline-block;
+}
